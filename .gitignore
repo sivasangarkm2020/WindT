@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/WindTWeb/.vs/WindTWeb
+/WindTWeb/bin
+/WindTWeb/obj/Debug
+/WindTWeb/obj/Release
+/WindTWeb/Properties/PublishProfiles

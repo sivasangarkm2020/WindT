@@ -16,6 +16,10 @@ namespace WindTWeb
             // Code that runs on application startup
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            Application["Row1"] = "";
+            Application["Row2"] = "";
+            Application["Row3"] = "";
+            Application["Row4"] = "";
         }
     }
 }
